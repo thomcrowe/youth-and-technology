@@ -2,20 +2,21 @@
 templateKey: index-page
 title: Orthodox Youth and Technology
 image: /img/orthodoxy-tech.jpg
-heading: Great coffee with a conscience
+heading: Our Goal
 subheading: Looking at Techology and What It Means in Our Lives
 mainpitch:
-  title: Why Kaldi
+  title: Orthodoxy & Technology
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Technology is all around us. We use it at school, for work, to communicate
+    with friends and family, and so many other things. But are we using it
+    responsibly? Does technology have any implications on our faith?
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We live in a world where we are surrounded by things that can either help us
+  in our walk with Christ or create stumbling blocks in our Christian journey.
+  The Youth & Techology Taskforce was commissioned by His Grace, Bishop +BASIL
+  to pull together clergy, youth workers, and young people from our diocese to
+  look at how technology exists in our lives, how we can create safeguards, and
+  how we can use it to help us grow in and share our faith.
 intro:
   blurbs:
     - image: /img/coffee.png
