@@ -3,7 +3,7 @@ templateKey: index-page
 title: Orthodox Youth and Technology
 image: /img/orthodoxy-tech.jpg
 heading: Our Goal
-subheading: Looking at Techology and What It Means in Our Lives
+subheading: Looking at Techology and What It Means in Our Christian Lives
 mainpitch:
   title: Orthodoxy & Technology
   description: >
