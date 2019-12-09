@@ -1,19 +1,51 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Who we are
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### It started with a commision
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Earlier this year, His Grace Bishop +BASIL tasked Fr. Daniel with creating a task force to look at technology and how it affects our youth. The need for the task force is great, and the team started working on creating a mission, gaining a focus, and moving forward. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### The Mission
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+The mission of the Task Force on Youth and Technology is to provide resources and education for parishes, youth workers, parents, and young people on the risks involved with technology, how to safely use technology, warning signs of risky behaviors, and positive ways to engage with technology to grow in and share our faith.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 
+
+
+
+# **Our Team**
+
+## Fr. Daniel Bethancourt
+
+![](/img/frdaneil.jpg "Fr. Daniel Bethancourt")
+
+
+
+Fr. Daniel is the priest at St. Nicholas Orthodox Church in Shreveport, Louisiana and serves as the youth advisor for the Diocese of Wichita and Middle America.
+
+
+
+## Fr. James Shadid
+
+![](/img/frjames.jpg "Fr. James Shadid")
+
+Fr. James Shadid is parish priest of St. George in Houston, Texas and served as the Camp Director of Camp St. Raphael for nine years.
+
+
+
+## Dn. Elisha Long
+
+Deacon Elisha Long serves at St. Elias in Austin, Texas. He teaches middle school at a private school and has worked with teens for over 25 years.
+
+
+
+## Dn. Thom Crowe
+
+Dn. Thom serves at St. Antony in Tulsa, Oklahoma where he has worked with the youth group for 13 years. 
+
+
+
+## Erin Learned Ghata
+
+Need a bio
