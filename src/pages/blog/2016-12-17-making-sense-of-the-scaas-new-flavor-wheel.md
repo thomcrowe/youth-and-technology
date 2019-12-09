@@ -10,8 +10,7 @@ description: >-
 featuredpost: false
 featuredimage: /img/article1.jpg
 tags:
-  - flavor
-  - tasting
+  - technology SCOBA
 ---
 
 
