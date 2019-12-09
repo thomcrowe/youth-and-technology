@@ -3,7 +3,7 @@ templateKey: index-page
 title: Orthodox Youth and Technology
 image: /img/orthodoxy-tech.jpg
 heading: Great coffee with a conscience
-subheading: 'Defining '
+subheading: Looking at Techology and What It Means in Our Lives
 mainpitch:
   title: Why Kaldi
   description: >
